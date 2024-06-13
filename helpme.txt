@@ -1,1 +1,2 @@
 avrdude -c avrisp -p m328p -b 19200 -P /dev/ttyUSB0
+https://avrdudes.github.io/avrdude/6.4/avrdude_3.html#Option-Descriptions
